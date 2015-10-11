@@ -1,0 +1,23 @@
+{
+  "name": "landing_page",
+  "version": "1.0.0",
+  "authors": [
+    "Martial James Jefferson"
+  ],
+  "description": "Landing page for Rebanked.us",
+  "main": "index.jade",
+  "keywords": [
+    "heroesvshackers",
+    "hackathon",
+    "identity"
+  ],
+  "license": "MIT",
+  "homepage": "http://rebanked.us",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

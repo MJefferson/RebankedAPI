@@ -1,0 +1,16 @@
+{
+  "name": "rebankedlanding",
+  "version": "1.0.0",
+  "description": "Landing page for Rebanked.us",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "heroesvhackers",
+    "hackathon",
+    "identity"
+  ],
+  "author": "Martial James Jefferson",
+  "license": "MIT"
+}
